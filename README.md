@@ -14,5 +14,7 @@
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=for-the-badge&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bitbucket-white?style=for-the-badge&logo=Bitbucket&logoColor=0052CC"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Confluence-gray?style=for-the-badge&logo=Confluence&logoColor=172B4D"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jira-green?style=for-the-badge&logo=Jira&logoColor=0052CC"/></p>
   
 #
-<p>![Yuchen's github stats](https://github-readme-stats.vercel.app/api?username=yoctoyu&show_icons=true&theme=tokyonight)</p>
+<p>
+  ![Yuchen's github stats](https://github-readme-stats.vercel.app/api?username=yoctoyu&show_icons=true&theme=tokyonight)
+</p>
 <p>![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoctoyu&layout=compact&theme=tokyonight)</p>
